@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Contact_Management_Application.Models
 {
-    public class PersonContact
+    public class BusinessContact
     {
-        public void person()//test
-        {
 
-        }
+
     }
 }
+
