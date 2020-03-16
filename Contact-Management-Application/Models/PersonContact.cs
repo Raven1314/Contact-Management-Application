@@ -7,5 +7,9 @@ namespace Contact_Management_Application.Models
 {
     public class Class
     {
+        public void person()//test
+        {
+
+        }
     }
 }
